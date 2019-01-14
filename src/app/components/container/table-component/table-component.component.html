@@ -1,0 +1,35 @@
+
+<table class="table table-hover">
+<thead>
+  <tr>       
+    <th> Date Range </th>
+    <th> 0.00 AM</th>
+    <th> 3.00 AM</th>
+    <th> 6.00 AM</th>
+    <th> 9.00 AM</th>
+    <th> 12.00 AM</th>
+    <th> 15.00 PM</th>
+    <th> 18.00 PM</th>
+    <th> 21.00 PM</th>
+   
+           
+  </tr>
+</thead>
+  <tbody>
+   
+     <tr  colspan="9" *ngFor="let weatherDataListCollection of weatherDataListCollection">
+       <td colspan="1">
+          <p class="date-time"><span >{{weatherDataListCollection[0].foreCastDate | date}}</span>
+       </td>
+       <td colspan="8" *ngFor="let weatherDataListCollection of weatherDataListCollection">              
+         <p class="weather-data">    
+            <span  class="min-temp" *ngIf='( weatherDataListCollection.temp)'> {{ weatherDataListCollection.temp - 273.15 | number:'1.1-2'}} &deg;C </span>           
+            <span  [ngClass]="weatherDataListCollection.weather != null ? weatherDataListCollection.weather + '-cls' : ''" class="weather-discription"></span>                       
+            <span  class="weather-discription-txt">{{ weatherDataListCollection.weather}}</span> 
+        </p>         
+        </td>
+     
+     </tr>
+  </tbody>
+
+</table>

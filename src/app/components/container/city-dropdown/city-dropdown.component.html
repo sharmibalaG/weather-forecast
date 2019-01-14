@@ -1,0 +1,16 @@
+<div class="example-block">
+    <div class="example-block__item">
+        <ngx-select [formControl]="selectControl"        
+                    optionValueField = "id"
+                    optionTextField = "name"
+                    [allowClear]="true"
+                    [defaultValue]="defaultCity()"
+                    [items]="items">
+                    <ng-template ngx-select-option ngx-select-option-selected let-option let-text="text">
+                      <span> {{ option.data.name }} ,</span>
+                      <span> {{ option.data.country }} </span>
+                    </ng-template>
+        </ngx-select>
+       
+        </div>
+    </div>

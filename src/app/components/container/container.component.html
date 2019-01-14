@@ -1,0 +1,8 @@
+<div class="content-wrapper">
+  <div class="container">
+     <city-dropdown (getSelectedCity)='getSelectedCity($event)'></city-dropdown>  
+      <app-sub-container-component  [averageTemprature]="averageTemprature"></app-sub-container-component> 
+     <app-table-component [weatherDataListCollection] = 'weatherDataListCollection'></app-table-component>
+  </div>  
+</div>
+

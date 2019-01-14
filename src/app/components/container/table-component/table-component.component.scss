@@ -1,0 +1,107 @@
+.table {
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-top:20px;
+    empty-cells: show;
+
+    th {
+        width:140px;
+        text-align:center;
+          
+    }
+   
+    tr {
+        display: block;
+        width: 100%;
+        td{
+            padding:0;
+            width:140px;
+            height:100px;
+            border:1px dotted #ccc;
+            .weather-data {
+                position: relative;
+                padding: 0rem 1rem;
+                span {
+                    clear: both;
+                    display: block;
+                    color: #575757;
+                    
+                }
+                .min-temp {
+                    position: absolute;
+                    left: 5px;
+                    top:5px;
+                    font-size: 11px;
+                }
+                .max-temp {
+                    position: absolute;
+                    right: 10px;
+                    top:5px;
+                    font-size: 11px;
+                }
+                .weather-discription {
+                    margin: 17px 0 11px 10px;
+                    
+                    float: left;
+                }
+                 .weather-discription-txt {
+                    font-weight:bold;
+                    text-transform: capitalize;
+                    font-size: 13px;
+                    margin: 20px 0 5px 15px;
+                }
+            }
+            .date-time {
+                span {
+                    text-align: center;
+                    width: 100%;
+                    display: block;
+                   
+                    margin: 34px 0 0 0;
+                }
+            }
+           
+        }
+    }
+   
+}
+
+//image icon class
+span.weather-discription.broken.clouds-cls {
+    background: url('../../../../assets/images/broken-clouds.png');
+    width: 50px;
+    height: 40px;
+}
+span.weather-discription.light.rain-cls {
+    background: url('../../../../assets/images/rain.png');
+    width: 50px;
+    height: 40px;
+}
+
+span.weather-discription.scattered.clouds-cls {
+    background: url('../../../../assets/images/scallter-clouds.png');
+    width: 50px;
+    height: 40px;
+}
+span.weather-discription.clear.sky-cls {
+    background: url('../../../../assets/images/clear-sky.png');
+    width: 50px;
+    height: 40px;
+}
+span.weather-discription.few.clouds-cls {
+    background: url('../../../../assets/images/few-clouds.png');
+    width: 50px;
+    height: 40px;
+}
+span.weather-discription.light.snow-cls, span.weather-discription.snow-cls {
+    background: url('../../../../assets/images/snow.png');
+    width: 50px;
+    height: 40px;
+}
+
+span.weather-discription.overcast.clouds-cls {
+    background: url('../../../../assets/images/scallter-clouds.png');
+    width: 50px;
+    height: 40px;
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": 6087824,
+    "name": "New Toronto",
+    "country": "CA",
+    "coord": {
+      "lon": -79.505272,
+      "lat": 43.600189
+    }
+  },
+  {
+    "id": 6176155,
+    "name": "Wardner",
+    "country": "CA",
+    "coord": {
+      "lon": -115.418747,
+      "lat": 49.41663
+    }
+  },
+  {
+    "id": 6105530,
+    "name": "Pipestone",
+    "country": "CA",
+    "coord": {
+      "lon": -100.94651,
+      "lat": 49.5578
+    }
+  },
+  {
+    "id": 6169183,
+    "name": "Trossachs",
+    "country": "CA",
+    "coord": {
+      "lon": -104.217789,
+      "lat": 49.633362
+    }
+  },
+  {
+    "id": 6116154,
+    "name": "Raleigh",
+    "country": "CA",
+    "coord": {
+      "lon": -55.731281,
+      "lat": 51.566792
+    }
+  },
+  {
+    "id": 5955243,
+    "name": "Fond-du-Lac",
+    "country": "CA",
+    "coord": {
+      "lon": -107.202187,
+      "lat": 59.317532
+    }
+  },
+  {
+    "id": 6101917,
+    "name": "Petite-Anse",
+    "country": "CA",
+    "coord": {
+      "lon": -64.865387,
+      "lat": 49.183399
+    }
+  },
+  {
+    "id": 6093737,
+    "name": "Ompah",
+    "country": "CA",
+    "coord": {
+      "lon": -76.832733,
+      "lat": 45.016811
+    }
+  },
+  {
+    "id": 5988860,
+    "name": "Kaladar",
+    "country": "CA",
+    "coord": {
+      "lon": -77.116142,
+      "lat": 44.65012
+    }
+  },
+  {
+    "id": 6096003,
+    "name": "Paddockwood",
+    "country": "CA",
+    "coord": {
+      "lon": -105.56768,
+      "lat": 53.516788
+    }
+  },
+  {
+    "id": 6074400,
+    "name": "Milton Station",
+    "country": "CA",
+    "coord": {
+      "lon": -63.215389,
+      "lat": 46.300121
+    }
+  },
+  {
+    "id": 5925102,
+    "name": "Cole Bay",
+    "country": "CA",
+    "coord": {
+      "lon": -108.33474,
+      "lat": 55.09457
+    }
+  },
+  {
+    "id": 5898613,
+    "name": "Benton",
+    "country": "CA",
+    "coord": {
+      "lon": -67.598923,
+      "lat": 45.983398
+    }
+  },
+  {
+    "id": 6150727,
+    "name": "Snowden",
+    "country": "CA",
+    "coord": {
+      "lon": -104.684242,
+      "lat": 53.483391
+    }
+  },
+  {
+    "id": 6077183,
+    "name": "Montney",
+    "country": "CA",
+    "coord": {
+      "lon": -120.919647,
+      "lat": 56.449879
+    }
+  },
+  {
+    "id": 6075009,
+    "name": "Minto",
+    "country": "CA",
+    "coord": {
+      "lon": -100.021973,
+      "lat": 49.40752
+    }
+  },
+  {
+    "id": 6064638,
+    "name": "Makwa",
+    "country": "CA",
+    "coord": {
+      "lon": -108.918159,
+      "lat": 54.000198
+    }
+  },
+  {
+    "id": 5901993,
+    "name": "Bishop's Harbour",
+    "country": "CA",
+    "coord": {
+      "lon": -53.63139,
+      "lat": 48.683201
+    }
+  },
+  {
+    "id": 6144189,
+    "name": "Senlac",
+    "country": "CA",
+    "coord": {
+      "lon": -109.701508,
+      "lat": 52.483452
+    }
+  },
+  {
+    "id": 5959760,
+    "name": "Garrick",
+    "country": "CA",
+    "coord": {
+      "lon": -104.334229,
+      "lat": 53.483398
+    }
+  },
+  {
+    "id": 6161477,
+    "name": "Tangier",
+    "country": "CA",
+    "coord": {
+      "lon": -62.698631,
+      "lat": 44.800152
+    }
+  },
+  {
+    "id": 6059477,
+    "name": "Long Point",
+    "country": "CA",
+    "coord": {
+      "lon": -61.480518,
+      "lat": 45.811089
+    }
+  },
+  {
+    "id": 6082313,
+    "name": "Mount Pleasant",
+    "country": "CA",
+    "coord": {
+      "lon": -77.032738,
+      "lat": 44.250118
+    }
+  },
+  {
+    "id": 6087824,
+    "name": "New Toronto",
+    "country": "CA",
+    "coord": {
+      "lon": -79.505272,
+      "lat": 43.600189
+    }
+  },
+  {
+    "id": 6111732,
+    "name": "Port Dufferin",
+    "country": "CA",
+    "coord": {
+      "lon": -62.381908,
+      "lat": 44.916851
+    }
+  },
+  {
+    "id": 6176576,
+    "name": "Waskesiu Lake",
+    "country": "CA",
+    "coord": {
+      "lon": -106.081917,
+      "lat": 53.922642
+    }
+  },
+  {
+    "id": 5919305,
+    "name": "Ceylon",
+    "country": "CA",
+    "coord": {
+      "lon": -104.601067,
+      "lat": 49.450069
+    }
+  },
+  {
+    "id": 6128192,
+    "name": "Round Hill",
+    "country": "CA",
+    "coord": {
+      "lon": -112.635223,
+      "lat": 53.166828
+    }
+  },
+  {
+    "id": 6075663,
+    "name": "Mitchells Corner",
+    "country": "CA",
+    "coord": {
+      "lon": -65.01548,
+      "lat": 45.616859
+    }
+  },
+  {
+    "id": 6100123,
+    "name": "Peakes",
+    "country": "CA",
+    "coord": {
+      "lon": -62.78196,
+      "lat": 46.30011
+    }
+  },
+  {
+    "id": 6137754,
+    "name": "Sainte-Anne-du-Lac",
+    "country": "CA",
+    "coord": {
+      "lon": -75.332573,
+      "lat": 46.883411
+    }
+  },
+  {
+    "id": 5909391,
+    "name": "Bromhead",
+    "country": "CA",
+    "coord": {
+      "lon": -103.667686,
+      "lat": 49.183361
+    }
+  },
+  {
+    "id": 6152326,
+    "name": "South Lancaster",
+    "country": "CA",
+    "coord": {
+      "lon": -74.482559,
+      "lat": 45.133389
+    }
+  },
+  {
+    "id": 6173683,
+    "name": "Venice",
+    "country": "CA",
+    "coord": {
+      "lon": -112.135223,
+      "lat": 54.700191
+    }
+  },
+  {
+    "id": 6136570,
+    "name": "Russell",
+    "country": "CA",
+    "coord": {
+      "lon": -57.798389,
+      "lat": 48.966709
+    }
+  },
+  {
+    "id": 6124776,
+    "name": "Rivière-Pentecôte",
+    "country": "CA",
+    "coord": {
+      "lon": -67.16552,
+      "lat": 49.78339
+    }
+  },
+  {
+    "id": 6054656,
+    "name": "Lismore",
+    "country": "CA",
+    "coord": {
+      "lon": -62.265301,
+      "lat": 45.70015
+    }
+  },
+  {
+    "id": 6180747,
+    "name": "Whitemud Creek",
+    "country": "CA",
+    "coord": {
+      "lon": -117.419312,
+      "lat": 55.466759
+    }
+  },
+  {
+    "id": 5962921,
+    "name": "Goodlands",
+    "country": "CA",
+    "coord": {
+      "lon": -100.604767,
+      "lat": 49.094429
+    }
+  },
+  {
+    "id": 1264527,
+    "name": "Chennai",
+    "country": "IN",
+    "coord": {
+      "lon": 80.278473,
+      "lat": 13.08784
+    }
+  },
+  {
+    "id": 2154855,
+    "name": "North Sydney",
+    "country": "AU",
+    "coord": {
+      "lon": 151.207214,
+      "lat": -33.840561
+    }
+  },
+  {
+    "id": 5992138,
+    "name": "Kincaid",
+    "country": "CA",
+    "coord": {
+      "lon": -107.001259,
+      "lat": 49.666759
+    }
+  },
+  {
+    "id": 6111652,
+    "name": "Portapique",
+    "country": "CA",
+    "coord": {
+      "lon": -63.698711,
+      "lat": 45.40015
+    }
+  },
+  {
+    "id": 6085706,
+    "name": "Namao",
+    "country": "CA",
+    "coord": {
+      "lon": -113.485321,
+      "lat": 53.716839
+    }
+  },
+  {
+    "id": 5910505,
+    "name": "Buchans",
+    "country": "CA",
+    "coord": {
+      "lon": -56.8647,
+      "lat": 48.816738
+    }
+  },
+  {
+    "id": 2063523,
+    "name": "Perth",
+    "country": "AU",
+    "coord": {
+      "lon": 115.833328,
+      "lat": -31.933331
+    }
+  },
+  {
+    "id": 5952334,
+    "name": "Fermeuse",
+    "country": "CA",
+    "coord": {
+      "lon": -52.956371,
+      "lat": 46.976292
+    }
+  },
+  {
+    "id": 5967378,
+    "name": "Gros-Morne",
+    "country": "CA",
+    "coord": {
+      "lon": -65.548737,
+      "lat": 49.250092
+    }
+  }
+]
